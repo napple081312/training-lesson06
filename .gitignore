@@ -1,0 +1,26 @@
+# 依存ライブラリ
+node_modules/
+target/
+
+# ビルド成果物
+dist/
+build/
+*.class
+*.jar
+
+# 環境変数・機密情報
+.env
+.env.local
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
+
+# エディタ
+.idea/
+.vscode/
+*.swp
+
+# ログ
+*.log
