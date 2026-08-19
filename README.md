@@ -3,4 +3,5 @@
 こんにちは！研修でWeb開発とGitを学んでいます。
 ## 学習中の技術
 - HTML / CSS
-- Git / GitHub
+- Git / GitHubテスト編集2
+テスト編集3
